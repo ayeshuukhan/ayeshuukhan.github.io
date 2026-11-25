@@ -29,7 +29,7 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/VARA4u-tech/Vara-s--Portfolio.git
+   git clone ..
    cd Vara-s--Portfolio
    ```
 
@@ -61,9 +61,6 @@ src/
 ├── App.tsx         # Main application routing & structure
 └── main.tsx        # Entry point
 ```
-
-- **LinkedIn**: [vara4u](https://linkedin.com/in/vara4u)
-
 ---
 
-_Built with ❤️ and a lot of caffeine by Vara._
+_Built with ❤️ and a lot of caffeine by ayesha._
