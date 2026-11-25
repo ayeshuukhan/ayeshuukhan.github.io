@@ -25,7 +25,7 @@ const AboutSection = () => (
           real-world business problems.
         </p>
         <a
-          href="https://abdoabozena7.github.io/Clean_Portofoio/"
+          href="https://ayeshuukhan.github.io/"
           target="_blank"
           rel="noopener noreferrer"
           className="group relative inline-flex items-center gap-3 px-6 py-3 border-2 border-foreground bg-card text-foreground text-xs font-bold tracking-[0.2em] uppercase transition-all duration-300 shadow-[6px_6px_0px_0px_rgba(255,255,255,0.3)] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] hover:bg-foreground hover:text-background"

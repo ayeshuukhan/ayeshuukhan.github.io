@@ -223,7 +223,7 @@ const HeroSection = () => {
             },
             {
               Icon: Globe,
-              href: "https://abdoabozena7.github.io/Clean_Portofoio/",
+              href: "https://ayeshuukhan.github.io/",
               label: "Portfolio",
             },
             {
