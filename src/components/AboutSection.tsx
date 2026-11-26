@@ -15,9 +15,9 @@ const AboutSection = () => (
           scalable backend APIs.
         </p>
         <p className="body-text max-w-2xl mt-6">
-          My project-based portfolio covers Python, EDA, ML evaluation, deep
-          learning foundations, NLP/Transformers, Generative AI, and deployment
-          with FastAPI and Streamlit.
+          I have hands-on experience with Python, Exploratory Data Analysis (EDA),
+          Machine Learning, model evaluation, deep learning fundamentals, NLP/Transformers,
+          Generative AI, and deploying applications using FastAPI and Streamlit.
         </p>
         <p className="body-text max-w-2xl mt-6 mb-8">
           I care about reliability, maintainability, and measurable impact,
