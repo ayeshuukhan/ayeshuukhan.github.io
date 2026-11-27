@@ -16,7 +16,7 @@ const training = [
       "Led the design and development of the company’s digital platform, overseeing its technical architecture, implementation, and ongoing optimization.",
   },
   {
-    role: "Agentic AI Developer",
+    role: "Agentic AI Intern",
     company: "Almahvi",
     period: "Present",
     description:
